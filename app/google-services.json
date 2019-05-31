@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114485687526",
+    "firebase_url": "https://soleek-65985.firebaseio.com",
+    "project_id": "soleek-65985",
+    "storage_bucket": "soleek-65985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114485687526:android:75dec712a33bc570",
+        "android_client_info": {
+          "package_name": "com.example.radwan.soleek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114485687526-vbfob5pk90qbcsov03s93nb3pv2jvshp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radwan.soleek",
+            "certificate_hash": "92ac25f7e041ee019866aed268ac0a2ac4493c14"
+          }
+        },
+        {
+          "client_id": "114485687526-jfll0tmj8q6a6a6kaf6jqiqh0j7a3h20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dTpSqJ4oTde6OZPoRDFoYy4YtQfTg8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114485687526-jfll0tmj8q6a6a6kaf6jqiqh0j7a3h20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

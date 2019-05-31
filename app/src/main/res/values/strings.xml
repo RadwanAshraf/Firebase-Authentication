@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Soleek</string>
+    <string name="enter_mail">Email</string>
+    <string name="enter_pass">Password</string>
+    <string name="login_invalid">Invalid User</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_register"><u>Register</u></string>
+    <string name="home_title">Countries</string>
+    <string name="action_facbook">Facbook</string>
+    <string name="enter_pass_confirm">Confirm Password</string>
+    <string name="facebook_app_id">608480696304397</string>
+    <string name="fb_login_protocol_scheme">fb608480696304397</string>
+    <string name="register_title">Register</string>
+    <string name="json_url">http://countryapi.gear.host/v1/Country/getCountries</string>
+    <string name="action_logOut">LogOut</string>
+
+</resources>
